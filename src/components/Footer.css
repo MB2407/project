@@ -1,0 +1,17 @@
+.footer {
+position: absolute;
+width: 100%;
+height: 64px;
+display: flex;
+top: 160%;
+background: #161619;
+align-items: center;
+justify-content: center;
+gap: 2rem;
+
+}
+.footer-links{
+    height: 5vh;
+    
+
+}
